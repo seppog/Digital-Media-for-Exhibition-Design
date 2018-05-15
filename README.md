@@ -2,8 +2,10 @@
 Materials for the lectures Digital Media in the Master Program Exhibition Design at IDK/FH JOANNEUM
 more to come
 
-links to software:
-Reaper is the DAW of choice we use: https://www.reaper.fm/
+links to software:<br>
+Reaper is the DAW of choice we use: https://www.reaper.fm/<br>
+Audacity could also be used:  https://www.audacityteam.org/<br>
+Free and powerful:https://ardour.org/
 
 (free) VST Plugins  we need:
 
