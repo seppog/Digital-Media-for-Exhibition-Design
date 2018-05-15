@@ -1,6 +1,6 @@
 # Lecture Digital Media and Exhibition Design
-Materials for the lectures Digital Media in the Master Program Exhibition Design at IDK/FH JOANNEUM
-more to come
+Materials for the lectures Digital Media in the Master Program Exhibition Design at IDK/FH JOANNEUM<br>
+(more to come)
 
 links to software:<br>
 Reaper is the DAW of choice we use: https://www.reaper.fm/<br>
